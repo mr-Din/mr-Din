@@ -1,5 +1,8 @@
-### Hi there 👋
+### Приветствую! 👋 Меня зовут Динислам, я разработчик C++
+Прохожу курс С++ Яндекс.Практикум
 
+
+https://career.habr.com/mr_din
 <!--
 **mr-Din/mr-Din** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
