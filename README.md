@@ -8,7 +8,7 @@ I use various C++20 features in my work:
 - multithreading and much more
 
 
-https://linkedin.com/in/mr-din
+https://linkedin.com/in/mr-din <br>
 https://career.habr.com/mr_din
 <!--
 **mr-Din/mr-Din** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
